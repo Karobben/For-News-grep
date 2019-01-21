@@ -1,0 +1,10 @@
+Version 1.01(update on July, 16)
+news.txt -- NPR news
+news_1.txt -- Nature - -好像有問題
+news_2.txt --NPR with annotation
+
+如想退订或者提意见，请直接QQ联系。若想友情赞助，支付宝账号，18670350487。哈哈哈
+修复 NPR news 不能抓取站外新闻的bug
+最後一個文件，是給LINUX或者MAC 的bash命令看的
+如果支持bash命令的話，直接用more 或者 cat， echo 都可的. 然後就可以看見有顏色標註的單詞。單詞解釋在段落結尾粗，按照出現順序次數排列
+注，這些單詞都是我自己的不熟練庫的，所以肯看起來比較奇怪。太生僻和我會的單詞我都不會去標記的。就這樣了哈哈
